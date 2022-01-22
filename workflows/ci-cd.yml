@@ -41,5 +41,5 @@ jobs:
             ${{ secrets.FIREBASE_SERVICE_ACCOUNT_NUMPIE
             }}
           channelId: live
-          projectId: numpie-finance
+          projectId: numpie
   
